@@ -1,0 +1,21 @@
+html, body {
+	background-color: black;
+}
+body {
+	text-align: center;
+}
+* {
+	font-size:125%;
+	font-family: Impact, charcoal, sans-serif;
+}
+/*headers*/
+h1,h2 {
+	color: red;
+}
+/*paragraphs*/
+p1 {
+	color: white;
+}
+p2 {
+	color: white;
+}
